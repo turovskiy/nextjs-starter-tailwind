@@ -1,0 +1,3 @@
+.centered {
+    @apply flex flex-col items-center justify-center p-4 mx-auto
+  }
